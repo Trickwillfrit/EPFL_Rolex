@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+scikit-surprise
+implicit
+sentence-transformers
+requests
+streamlit
+jupyter
